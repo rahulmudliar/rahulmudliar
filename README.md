@@ -66,45 +66,6 @@ Aspiring **Data Analyst** passionate about transforming data into actionable ins
 
 ---
 
-### 🌟 Professional Experience
-
-#### **Illinois State University** - Normal, IL
-**Quality Management and Analytics Assistant**  
-_August 2023 to Present_
-
-- **Process Optimization:** Analyzed the manufacturing process, targeting a 33% productivity increase.
-  - Reduced manufacturing time from 12 hours to 8 hours for 360 parts.
-  - Developed a resource allocation model to maximize productivity for 400 parts in 8 hours.
-  - Pioneered a process mining methodology, reducing model development time by over 60%.
-
-- **Coach and Tutor:** Taught Analytics, Quality Systems, and Process Optimization for the Engineering Technology program.
-  - Structured and administered 4+ courses with projects and daily management system implementation.
-  - Standardized data analysis procedures, reducing issues by 40%.
-  - Enhanced data accuracy and reduced recurring mistakes by 30% through comprehensive training.
-
-#### **Accenture Services** - Bengaluru, India
-**Application Development Associate**  
-_February 2021 to March 2022_
-
-- **Quality and Efficiency Enhancement:** Led automation testing to improve operational workflow and project efficiency.
-  - Achieved a 95% success rate in meeting quality standards and deadlines for 3 software projects.
-  - Improved testing efficiency by 25% through supervising Acceptance Testing initiatives and upskilling a team of 20+ members.
-
-#### **PHN Technology** - Pune, India
-**Product Management Associate**  
-_June 2020 to January 2021_
-
-- **Client Engagement and Innovation:** Leveraged data insights for client acquisition, driving revenue growth over $400K.
-  - Converted leads into clients, impacting over 1,120 students and generating $336,000 in revenue.
-  - Strengthened client relationships through effective communication and issue resolution, reducing complaints by 20%.
-
-**Product Development Intern**  
-_November 2019 to May 2020_
-
-- Secured three new clients valued at $60K by delivering six innovative IoT projects in a B2B role, leading a team of seven.
-
----
-
 ### 📈 Projects & Publications
 
 - **Data Visualization:** Analyzed and visualized 4 years of insurance claims data using Tableau. ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white) [Link](https://1drv.ms/u/s!Ag-NK_JDewe0a539yTN0lO-l03c?e=1LECtE)
