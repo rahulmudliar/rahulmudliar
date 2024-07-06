@@ -12,24 +12,24 @@
   <tr>
     <td>
       <a href="https://github.com/rahulmudliar/Portfolio_Projects">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulmudliar&repo=Portfolio-Project&theme=radical" alt="Portfolio Project">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulmudliar&repo=Portfolio_Projects&theme=flag-india&bg_color=000000" alt="Portfolio Project">
       </a>
     </td>
     <td>
       <a href="https://github.com/rahulmudliar/Tableau-Dashboards">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulmudliar&repo=Tableau-Dashboards&theme=radical" alt="Tableau Dashboards">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulmudliar&repo=Tableau-Dashboards&theme=flag-india&bg_color=000000" alt="Tableau Dashboards">
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/rahulmudliar/Python-Data-Science">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulmudliar&repo=Python-Data-Science&theme=radical" alt="Python Data Science">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulmudliar&repo=Python-Data-Science&theme=flag-india&bg_color=000000" alt="Python Data Science">
       </a>
     </td>
     <td>
-      <a href="https://github.com/rahulmudliar/SQL-Projects">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulmudliar&repo=SQL-Projects&theme=radical" alt="SQL Projects">
+      <a href="https://github.com/rahulmudliar/SQL-Code">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulmudliar&repo=SQL-Code&theme=flag-india&bg_color=000000" alt="SQL Projects">
       </a>
     </td>
   </tr>
