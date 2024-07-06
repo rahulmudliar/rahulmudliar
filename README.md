@@ -32,12 +32,6 @@
     </tr>
   </table>
 ---
-
-## 👋 Hello, I'm Rahul Mudliar!
-
-Aspiring **Data Analyst** passionate about transforming data into actionable insights. With a strong foundation in **SQL, Tableau, Excel, R,** and **Python**, I thrive on solving complex data challenges and delivering data-driven solutions.
-
----
 ### 🛠 Skills & Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
