@@ -4,12 +4,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=flat&logo=gmail)](mailto:rahulmudliar14@gmail.com)
 
 ---
-
-## 👋 Hello, I'm Rahul Mudliar!
-
-Aspiring **Data Analyst** passionate about transforming data into actionable insights. With a strong foundation in **SQL, Tableau, Excel, R,** and **Python**, I thrive on solving complex data challenges and delivering data-driven solutions.
-
----
 ## 📚 My Projects
 
 ### Featured Repositories
@@ -53,6 +47,12 @@ Aspiring **Data Analyst** passionate about transforming data into actionable ins
     </td>
   </tr>
 </table>
+
+---
+
+## 👋 Hello, I'm Rahul Mudliar!
+
+Aspiring **Data Analyst** passionate about transforming data into actionable insights. With a strong foundation in **SQL, Tableau, Excel, R,** and **Python**, I thrive on solving complex data challenges and delivering data-driven solutions.
 
 ---
 
