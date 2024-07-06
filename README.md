@@ -35,31 +35,11 @@
   </tr>
 </table>
 
-### Statistics
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=rahulmudliar&show_icons=true&theme=radical" alt="Rahul's GitHub stats">
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulmudliar&layout=compact&theme=radical" alt="Top Languages">
-    </td>
-  </tr>
-</table>
-
 ---
 
 ## 👋 Hello, I'm Rahul Mudliar!
 
 Aspiring **Data Analyst** passionate about transforming data into actionable insights. With a strong foundation in **SQL, Tableau, Excel, R,** and **Python**, I thrive on solving complex data challenges and delivering data-driven solutions.
-
----
-
-### Statistics
-
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulmudliar&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulmudliar&layout=compact&theme=radical)
 
 ---
 ### 🛠 Skills & Technologies
