@@ -120,8 +120,8 @@ _November 2019 to May 2020_
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulmudliar&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulmudliar&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulmudliar&show_icons=true&theme=flag-india&icon_color=0000FF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulmudliar&layout=compact&theme=flag-india&icon_color=0000FF)
 
 ---
 
