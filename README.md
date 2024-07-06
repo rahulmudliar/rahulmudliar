@@ -16,15 +16,15 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/rahulmudliar/Tableau-Dashboards">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulmudliar&repo=Tableau-Dashboards&theme=flag-india&bg_color=000000&icon_color=ffffff" alt="Tableau Dashboards">
+      <a href="https://github.com/rahulmudliar/Tableau_Dashboard">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulmudliar&repo=Tableau-Dashboard&theme=flag-india&bg_color=000000&icon_color=ffffff" alt="Tableau Dashboards">
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/rahulmudliar/Python-Data-Science">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulmudliar&repo=Python-Data-Science&theme=flag-india&bg_color=000000&icon_color=ffffff" alt="Python Data Science">
+      <a href="https://github.com/rahulmudliar/Python-Data-Analytics">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulmudliar&repo=Python-Data-Analytics&theme=flag-india&bg_color=000000&icon_color=ffffff" alt="Python Data Science">
       </a>
     </td>
     <td>
