@@ -81,8 +81,8 @@ Aspiring **Data Analyst** passionate about transforming data into actionable ins
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulmudliar&show_icons=true&theme=flag-india&icon_color=000000)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulmudliar&layout=compact&theme=flag-india&icon_color=000000)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulmudliar&show_icons=true&theme=flag-india&icon_color=000FFF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulmudliar&layout=compact&theme=flag-india&icon_color=000FFF)
 
 ---
 
