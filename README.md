@@ -5,8 +5,6 @@
 
 ---
 ## 📚 My Projects
-
-### Featured Repositories
   <table>
     <tr>
       <td>
