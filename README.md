@@ -11,8 +11,8 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/rahulmudliar/Data-Analysis-Project">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulmudliar&repo=Data-Analysis-Project&theme=radical" alt="Data Analysis Project">
+      <a href="https://github.com/rahulmudliar/Portfolio_Projects">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulmudliar&repo=Portfolio-Project&theme=radical" alt="Portfolio Project">
       </a>
     </td>
     <td>
