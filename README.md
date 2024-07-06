@@ -10,7 +10,58 @@
 Aspiring **Data Analyst** passionate about transforming data into actionable insights. With a strong foundation in **SQL, Tableau, Excel, R,** and **Python**, I thrive on solving complex data challenges and delivering data-driven solutions.
 
 ---
+## 📚 My Projects
 
+### Featured Repositories
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/rahulmudliar/Data-Analysis-Project">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulmudliar&repo=Data-Analysis-Project&theme=radical" alt="Data Analysis Project">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/rahulmudliar/Tableau-Dashboards">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulmudliar&repo=Tableau-Dashboards&theme=radical" alt="Tableau Dashboards">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/rahulmudliar/Python-Data-Science">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulmudliar&repo=Python-Data-Science&theme=radical" alt="Python Data Science">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/rahulmudliar/SQL-Projects">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulmudliar&repo=SQL-Projects&theme=radical" alt="SQL Projects">
+      </a>
+    </td>
+  </tr>
+</table>
+
+### Statistics
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=rahulmudliar&show_icons=true&theme=radical" alt="Rahul's GitHub stats">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulmudliar&layout=compact&theme=radical" alt="Top Languages">
+    </td>
+  </tr>
+</table>
+
+---
+
+### Statistics
+
+![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulmudliar&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulmudliar&layout=compact&theme=radical)
+
+---
 ### 🛠 Skills & Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
