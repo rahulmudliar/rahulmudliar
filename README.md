@@ -25,7 +25,15 @@ Aspiring **Data Analyst** passionate about transforming data into actionable ins
 - **Data Manipulation & Analysis:** Excel, Pandas, NumPy
 - **Statistical Analysis:** R Studio, Minitab
 - **Project Management Tools:** MS Project, Jira
-- **Certifications:** Google Data Analytics Professional Certificate, Agile Project Management Professional Certification (APMP)
+
+---
+### 🎓 Certifications
+
+![Google](https://img.shields.io/badge/Google-Data%20Analytics%20Professional%20Certificate-3b5998?style=flat&logo=google&logoColor=green)
+- Google Data Analytics Professional Certificate | Google - June 2024
+
+![Atlassian](https://img.shields.io/badge/Atlassian-Agile%20Project%20Management%20Professional%20Certification-3b5998?style=flat&logo=atlassian&logoColor=blue)
+- Agile Project Management Professional Certification (APMP) | Atlassian - June 2024
 
 ---
 
