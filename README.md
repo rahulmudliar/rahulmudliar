@@ -70,9 +70,9 @@ _November 2019 to May 2020_
 
 ### 📈 Projects & Publications
 
-- **Data Visualization:** Analyzed and visualized 4 years of insurance claims data using Tableau. ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white) [Link](#)
-- **Process Mapping:** Mined and visualized a functional process map of a manufacturing process using DISCO. [Link](#)
-- **Publication:** Enhanced simulation modeling capabilities through a paper on process mining and data analysis. [Link](#)
+- **Data Visualization:** Analyzed and visualized 4 years of insurance claims data using Tableau. ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white) [Link](https://1drv.ms/u/s!Ag-NK_JDewe0a539yTN0lO-l03c?e=1LECtE)
+- **Process Mapping:** Mined and visualized a functional process map of a manufacturing process using DISCO. [Link](https://docs.google.com/document/d/13Dz_PHED5I2jClVgshpPV0ZZHmc7PBmQ/edit?usp=sharing&ouid=101911118279701020597&rtpof=true&sd=true)
+- **Publication:** Enhanced simulation modeling capabilities through a paper on process mining and data analysis. [Link](https://github.com/rahulmudliar/rahulmudliar/edit/main/README.md)
 
 ---
 
