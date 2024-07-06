@@ -11,8 +11,8 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/rahulmudliar/Portfolio_Projects">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulmudliar&repo=Portfolio_Projects&theme=flag-india&bg_color=000000&icon_color=ffffff" alt="Portfolio Project">
+      <a href="https://github.com/rahulmudliar/Portfolio-Projects">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulmudliar&repo=Portfolio-Projects&theme=flag-india&bg_color=000000&icon_color=ffffff" alt="Portfolio Project">
       </a>
     </td>
     <td>
