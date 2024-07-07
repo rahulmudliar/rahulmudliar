@@ -37,10 +37,12 @@
 <Table>
   <Tr>
     <Td>
+      <a href="https://www.coursera.org/account/accomplishments/professional-cert/VJP6DD8XJ46Z">
        <img src="https://img.shields.io/badge/Google-Data%20Analytics%20Professional%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=green">
       <br>Google Data Analytics Professional Certificate | June 2024
     </Td>
     <td>
+      <a href="https://www.linkedin.com/learning/certificates/d9f99687d98562b6ed0e76b729e00c8889cac845110184834137ca100ec20105">
         <img src="https://img.shields.io/badge/Atlassian-Agile%20Project%20Management%20Professional%20-0052CC?style=for-the-badge&logo=atlassian&logoColor=blue">
       <br>Agile Project Management Professional (APMP) | June 2024
     </td>
