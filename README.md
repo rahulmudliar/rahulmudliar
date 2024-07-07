@@ -1,6 +1,6 @@
 # Rahul Mudliar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rahulmudliar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/rahulmudliar)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=flat&logo=gmail)](mailto:rahulmudliar14@gmail.com)
 
 ---
