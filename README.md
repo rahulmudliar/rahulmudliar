@@ -13,8 +13,8 @@
         </a>
       </td>
       <td>
-        <a href="https://github.com/rahulmudliar/Tableau-Dashboard">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulmudliar&repo=Tableau-Dashboard&theme=flag-india&bg_color=00000000&icon_color=0000FF" alt="Tableau Dashboards">
+        <a href="https://github.com/rahulmudliar/Insurance-Claims-Data-Visualization">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulmudliar&repo=Insurance-Claims-Data-Visualization&theme=flag-india&bg_color=00000000&icon_color=0000FF" alt="Tableau Dashboards">
         </a>
       </td>
     </tr>
